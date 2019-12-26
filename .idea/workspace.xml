@@ -52,4 +52,14 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser" timestamp="1577389565347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577389565347" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1577389234314">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577389234314" />
+  </component>
 </project>
