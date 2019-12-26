@@ -70,10 +70,7 @@ public class Estudiante {
         return curso5;
     }
 
-    public Curso buscarCurso(String codigoCurso){
-
-        if(curso1)
-    }
+    
 
 
 }

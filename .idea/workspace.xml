@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af7378cc-817f-4550-8439-fb1f1b8299bd" name="Default Changelist" comment="" />
+    <list default="true" id="af7378cc-817f-4550-8439-fb1f1b8299bd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/modelo/Estudiante.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/Estudiante.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +28,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Taller3" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -57,6 +60,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="488" y="64" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1577389565347" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1577392823864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577392823864" />
     <state x="339" y="162" key="run.anything.popup" timestamp="1577389234314">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
